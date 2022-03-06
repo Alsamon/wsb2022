@@ -1,2 +1,1 @@
-wsb2022
- wsb toun
+wsb toruń
